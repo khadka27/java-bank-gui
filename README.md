@@ -21,7 +21,7 @@ This is a Java-based banking application with a graphical user interface (GUI) d
 ### Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/java-bank-gui.git
+    git clone https://github.com/khadka27/java-bank-gui.git
     ```
 
 2. Open IntelliJ IDEA and select `File > Open` and navigate to the cloned repository.
